@@ -33,6 +33,10 @@ To use this repository, simply clone🔂 or download⬇️ the repository to you
 ## Contributing
 If you find a bug or would like to contribute to this repository, please submit an issue or pull request. We welcome💖 contributions of all types, including bug fixes, new programs, and improvements to existing programs✌️.
 
+<p align="center">
+  <img src="https://img.icons8.com/dusk/64/000000/github.png"/>
+</p>
+
 ## License
 
 This repository is licensed under the MIT License. See the LICENSE file for more information.
