@@ -4,7 +4,7 @@
 
 ## Java Starter Kit🚀
 
-Welcome to the **Java Starter Kit 🤗** repository! This repository contains basic programs that cover all the basic concepts of Java programming, including operators, input/output with the Scanner class, importing packages, data types, looping & etc.
+Welcome to the **Java Starter Kit 🤗** repository! This repository contains basic programs that cover all the basic concepts of Java programming, including operators, input/output with the Scanner class, importing packages, data type, looping & etc.
 
 ## Programs
 
