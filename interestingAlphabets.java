@@ -6,7 +6,7 @@ Write a Java program that prompts the user to enter the number of rows for a pat
 Each row of the triangle will start from the character 'A' and will print characters sequentially, but the starting character will depend on the current row number and 
 the total number of rows specified by the user. 
 
-For example, if the user inputs 3, the output should be: 
+For example, if the user inputs 3, the output should be:-
 C
 BC
 ABC
